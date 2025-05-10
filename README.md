@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Arman Askari — aka **Tiimmy F Turner**
 
-🎯 I'm a **Flutter Developer** with a passion for building beautiful, responsive apps.  
+🎯 I'm a **Flutter Developer** passionate about building beautiful, responsive apps.  
 📍 Currently 25 years old and exploring the world of software one line of code at a time.
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -14,15 +14,15 @@
   - **Material Design 3**
   - ...and always learning more.
 
----
+
 
 ## 🚀 What I'm Working On
 
-- Creating powerful, user-focused mobile apps
+- Creating mobile apps
 - Exploring cross-platform solutions
 - Sharing my journey and side projects here on GitHub
 
----
+
 
 ## 🌐 Let's Connect
 
