@@ -28,7 +28,7 @@
 
 Feel free to reach out if you're into mobile development, tech chats, or want to collaborate on something cool!
 
----
+
 
 > “Tech is my playground, and code is how I build my world.”  
 — Arman Askari | Tiimmy F Turner
