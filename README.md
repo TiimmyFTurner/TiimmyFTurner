@@ -25,11 +25,11 @@
 
 
 ## 📫 How to Reach Me
-- 📧 **Email:** [armanaskarii@gmail.com](mailto:armanaskariofficial@gmail.com)
+- 📧 **Email:** [armanaskariofficial@gmail.com](mailto:armanaskariofficial@gmail.com)
 - 💼 **LinkedIn:** [armanaskari](https://www.linkedin.com/in/arman-askari-480978151)
 - 💬 **Telegram:** [@TiimmyFTurner](https://t.me/TiimmyFTurner)
-- 📸 **Instagram:** [@tiimmyfturner](https://instagram.com/tiimmyfturner)
-- 🐦 **Twitter (X):** [@TiimmyFTurner](https://twitter.com/TiimmyFTurnera)
+- 📸 **Instagram:** [@TiimmyFTurner](https://instagram.com/tiimmyfturner)
+- 🐦 **Twitter (X):** [@TiimmyFTurnerA](https://twitter.com/TiimmyFTurnera)
 
 
 
