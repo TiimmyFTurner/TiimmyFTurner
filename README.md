@@ -22,11 +22,22 @@
 - Exploring cross-platform solutions
 - Sharing my journey and side projects here on GitHub
 
+### 📫 How to Reach Me
+- 📧 **Email:** [armanaskarii@gmail.com](mailto:armanaskariofficial@gmail.com)
+- 💼 **LinkedIn:** [armanaskari](https://www.linkedin.com/in/arman-askari-480978151)
+- 💬 **Telegram:** [@TiimmyFTurner](https://t.me/TiimmyFTurner)
+- 📸 **Instagram:** [@tiimmyfturner](https://instagram.com/tiimmyfturner)
+- 🐦 **Twitter (X):** [@TiimmyFTurner](https://twitter.com/TiimmyFTurnera)
+
+### 📄 My Resume
+- 🇬🇧 **English Resume:** [View Resume (Google Docs)](https://docs.google.com/document/d/19Z8Oo5bDljppmxJXtFj3RiQnczBmjx_AwvKMKwW6sQM/edit?usp=sharing)
+- 🇮🇷 **Persian Resume:** [مشاهده رزومه فارسی (Google Docs)](https://docs.google.com/document/d/1vIHKIVruUPM9S0uOQouDeGq__PwABqjSv6O14sk6XDY/edit?usp=sharing)
 
 
 ## 🌐 Let's Connect
 
 Feel free to reach out if you're into mobile development, tech chats, or want to collaborate on something cool!
+
 
 
 
