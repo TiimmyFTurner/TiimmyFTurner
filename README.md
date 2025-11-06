@@ -22,6 +22,8 @@
 - Exploring cross-platform solutions
 - Sharing my journey and side projects here on GitHub
 
+
+
 ## 📫 How to Reach Me
 - 📧 **Email:** [armanaskarii@gmail.com](mailto:armanaskariofficial@gmail.com)
 - 💼 **LinkedIn:** [armanaskari](https://www.linkedin.com/in/arman-askari-480978151)
@@ -29,25 +31,13 @@
 - 📸 **Instagram:** [@tiimmyfturner](https://instagram.com/tiimmyfturner)
 - 🐦 **Twitter (X):** [@TiimmyFTurner](https://twitter.com/TiimmyFTurnera)
 
+
+
 ## 📄 My Resume
 - 🇬🇧 **English Resume:** [View Resume (Google Docs)](https://docs.google.com/document/d/19Z8Oo5bDljppmxJXtFj3RiQnczBmjx_AwvKMKwW6sQM/edit?usp=sharing)
 - 🇮🇷 **Persian Resume:** [مشاهده رزومه فارسی (Google Docs)](https://docs.google.com/document/d/1vIHKIVruUPM9S0uOQouDeGq__PwABqjSv6O14sk6XDY/edit?usp=sharing)
 
 
-### 📫 How to Reach Me
-
-[![Email](https://img.shields.io/badge/Email-armanaskarii%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanaskarii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman%20Askari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armanaskari)
-[![Telegram](https://img.shields.io/badge/Telegram-@TiimmyFTurner-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TiimmyFTurner)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-@TiimmyFTurner-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TiimmyFTurner)
-[![Instagram](https://img.shields.io/badge/Instagram-@tiimmyfturner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiimmyfturner)
-
-
-
-### 📄 My Resume
-
-[![English Resume](https://img.shields.io/badge/Resume-English-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://your-link-here)
-[![Persian Resume](https://img.shields.io/badge/رزومه-فارسی-green?style=for-the-badge&logo=googledocs&logoColor=white)](https://your-link-here)
 
 ## 🌐 Let's Connect
 
