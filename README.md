@@ -11,8 +11,8 @@ Focusing on building clean, responsive, and user-centric mobile applications. I 
 | :--- | :--- | :--- |
 | **Farmer Mate** | A comprehensive Farm management for farmers. | [Bazaar](https://cafebazaar.ir/app/com.timothy.farmer_mate) / [Myket](https://myket.ir/app/com.timothy.farmer_mate) |
 | **Teacher Mate** | A productivity tool designed specifically for educators to manage classes. | [Bazaar](https://cafebazaar.ir/app/com.timothy.teacher_mate) / [Myket](https://myket.ir/app/com.timothy.teacher_mate)  |
-| **Spot the Spy** | A social deduction game featuring a complete UI/UX redesign. | [Bazaar](https://cafebazaar.ir/app/com.timothy.spot_the_spy) / [Myket](https://myket.ir/app/com.timothy.spot_the_spy) |
-| **Mafia Game** | A digital narrator and role-management tool for the classic party game. | [Bazaar](https://cafebazaar.ir/app/com.timothy.mafia2) / [Myket](https://myket.ir/app/com.timothy.mafia2) |
+| **Spot the Spy** | A social deduction game featuring a complete UI/UX redesign. | [GitHub](https://github.com/TiimmyFTurner/spot_the_spy) / [Bazaar](https://cafebazaar.ir/app/com.timothy.spot_the_spy) / [Myket](https://myket.ir/app/com.timothy.spot_the_spy) |
+| **Mafia Game** | A digital narrator and role-management tool for the classic party game. | [GitHub](https://github.com/TiimmyFTurner/mafia_2) / [Bazaar](https://cafebazaar.ir/app/com.timothy.mafia2) / [Myket](https://myket.ir/app/com.timothy.mafia2) |
 
 
 ---
