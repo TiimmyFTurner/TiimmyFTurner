@@ -26,12 +26,14 @@ I am a Flutter developer who focuses on the intersection of clean code and high-
 
 ### 🛠️ Tech Stack
 
-**Frontend & Design (Main)** 
+**Frontend & Design (Main)**
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![Material 3](https://img.shields.io/badge/Material--Design--3-%23757575.svg?style=flat&logo=material-design&logoColor=white)
 
-**Backend & Scripting (Background)** 
+**Backend & Scripting (Background)**
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
