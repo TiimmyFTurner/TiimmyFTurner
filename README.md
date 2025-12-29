@@ -1,64 +1,47 @@
-# 👋 Hi there, I'm Arman Askari aka **Tiimmy F Turner**
+# 👋 Hi, I'm Arman Askari
+**Flutter Developer | Tech Enthusiast**
 
-🎯 I'm a **Flutter Developer** passionate about building beautiful, responsive apps.  
-📍 Currently 26 years old and exploring the world of software one line of code at a time.
+Focusing on building clean, responsive, and user-centric mobile applications. I have a deep interest in smartphone hardware and the evolution of Material Design.
 
+---
 
+### 🚀 Featured Apps
 
-## 🧑‍💻 About Me
-
-- 💙 I love everything tech — especially **smartphones**. Talk to me about them and we might go on for hours!
-- 📱 I specialize in **Flutter** and have hands-on experience with:
-  - **PHP** & **Laravel**
-  - **Python**
-  - **Material Design 3**
-  - ...and always learning more.
-
-
-
-## 🚀 What I'm Working On
-
-- Creating mobile apps
-- Exploring cross-platform solutions
-- Sharing my journey and side projects here on GitHub
+| App Name | Description | Download/Link |
+| :--- | :--- | :--- |
+| **Farmer Mate** | A comprehensive task management and notification system for farmers. | [Bazzar](https://cafebazaar.ir/app/com.timothy.farmer_mate)/[Bazzar](https://myket.ir/app/com.timothy.farmer_mate) |
+| **Teacher Mate** | A productivity tool designed specifically for educators to manage classes. | [Bazzar](https://cafebazaar.ir/app/com.timothy.teacher_mate)/[Bazzar](https://myket.ir/app/com.timothy.teacher_mate)  |
+| **Spot the Spy** | A social deduction game featuring a complete UI/UX redesign. | [Bazzar](https://cafebazaar.ir/app/com.timothy.spot_the_spy)/[Bazzar](https://myket.ir/app/com.timothy.spot_the_spy) |
+| **Mafia Game** | A digital narrator and role-management tool for the classic party game. | [Bazzar](https://cafebazaar.ir/app/com.timothy.mafia2)/[Bazzar](https://myket.ir/app/com.timothy.mafia2) |
 
 
+---
 
-## 📫 How to Reach Me
-- 📧 **Email:** [armanaskariofficial@gmail.com](mailto:armanaskariofficial@gmail.com)
-- 💼 **LinkedIn:** [armanaskari](https://www.linkedin.com/in/arman-askari-480978151)
-- 💬 **Telegram:** [@TiimmyFTurner](https://t.me/TiimmyFTurner)
-- 📸 **Instagram:** [@TiimmyFTurner](https://instagram.com/tiimmyfturner)
-- 🐦 **Twitter (X):** [@TiimmyFTurnerA](https://twitter.com/TiimmyFTurnera)
+### 🛠️ Tech Stack & Tools
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
+---
 
-## 📄 My Resume
-- 🇬🇧 **English Resume:** [View Resume (Google Docs)](https://docs.google.com/document/d/19Z8Oo5bDljppmxJXtFj3RiQnczBmjx_AwvKMKwW6sQM/edit?usp=sharing)
-- 🇮🇷 **Persian Resume:** [مشاهده رزومه فارسی (Google Docs)](https://docs.google.com/document/d/1vIHKIVruUPM9S0uOQouDeGq__PwABqjSv6O14sk6XDY/edit?usp=sharing)
+### 📄 Professional Documents
+- 🇬🇧 [English Resume](https://docs.google.com/document/d/19Z8Oo5bDljppmxJXtFj3RiQnczBmjx_AwvKMKwW6sQM/edit?usp=sharing)
+- 🇮🇷 [Persian Resume (رزومه)](https://docs.google.com/document/d/1vIHKIVruUPM9S0uOQouDeGq__PwABqjSv6O14sk6XDY/edit?usp=sharing)
 
+---
 
+### 📫 Let's Connect
 
-## 🌐 Let's Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:armanaskariofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-askari-480978151)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/TiimmyFTurner)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tiimmyfturner)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TiimmyFTurnera)
 
-Feel free to reach out if you're into mobile development, tech chats, or want to collaborate on something cool!
+---
 
-
-
-
-
-
-<!--
-**TiimmyFTurner/TiimmyFTurner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Exploring the world of software one line of code at a time."
