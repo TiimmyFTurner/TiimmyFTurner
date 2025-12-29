@@ -9,7 +9,7 @@ Focusing on building clean, responsive, and user-centric mobile applications. I 
 
 | App Name | Description | Download/Link |
 | :--- | :--- | :--- |
-| **Farmer Mate** | A comprehensive task management and notification system for farmers. | [Bazzar](https://cafebazaar.ir/app/com.timothy.farmer_mate) / [Myket](https://myket.ir/app/com.timothy.farmer_mate) |
+| **Farmer Mate** | A comprehensive Farm management for farmers. | [Bazzar](https://cafebazaar.ir/app/com.timothy.farmer_mate) / [Myket](https://myket.ir/app/com.timothy.farmer_mate) |
 | **Teacher Mate** | A productivity tool designed specifically for educators to manage classes. | [Bazzar](https://cafebazaar.ir/app/com.timothy.teacher_mate) / [Myket](https://myket.ir/app/com.timothy.teacher_mate)  |
 | **Spot the Spy** | A social deduction game featuring a complete UI/UX redesign. | [Bazzar](https://cafebazaar.ir/app/com.timothy.spot_the_spy) / [Myket](https://myket.ir/app/com.timothy.spot_the_spy) |
 | **Mafia Game** | A digital narrator and role-management tool for the classic party game. | [Bazzar](https://cafebazaar.ir/app/com.timothy.mafia2) / [Myket](https://myket.ir/app/com.timothy.mafia2) |
