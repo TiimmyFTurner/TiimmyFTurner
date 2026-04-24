@@ -9,7 +9,7 @@ I am a Flutter developer who focuses on the intersection of clean code and high-
 - 📱 **Mobile Development:** I breathe Flutter. I love exploring the latest widgets, state management solutions, and performance optimizations.
 - 🎨 **Material Design 3:** I’m a big fan of dynamic color and the M3 design system. I believe an app should feel as good as it looks.
 - 🛠️ **Problem Solver:** Beyond the UI, I have a background in **PHP/Laravel** and **Python**, allowing me to understand and integrate full-stack logic.
-- 🎧 **Beyond Tech:** When I'm not coding, I'm usually researching smartphone hardware, listening to music, or reading authors like Steve Toltz and Charles Bukowski.
+- 🎧 **Beyond Tech:** When I'm not coding, I'm usually researching smartphone hardware, listening to music, or reading authors like Steve Toltz and Agota Kristof.
 
 ---
 
