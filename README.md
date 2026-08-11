@@ -20,6 +20,7 @@ I am a Flutter developer who focuses on the intersection of clean code and high-
 | :--- | :--- | :--- |
 | **Farmer Mate** | Farm management & task automation for modern agriculture. | [Bazaar](https://cafebazaar.ir/app/com.timothy.farmer_mate) / [Myket](https://myket.ir/app/com.timothy.farmer_mate) |
 | **Teacher Mate** | Productivity tool for educators to manage classes and students. | [Bazaar](https://cafebazaar.ir/app/com.timothy.teacher_mate) / [Myket](https://myket.ir/app/com.timothy.teacher_mate) |
+| **Car Mate** | Vehicle utility manager for tracking maintenance schedules and auto expenses. | [Bazaar](https://cafebazaar.ir/app/com.timothy.car_mate) / [Myket](https://myket.ir/app/com.timothy.car_mate) |
 | **Spot the Spy** | A social deduction game with a custom UI/UX redesign. | [GitHub](https://github.com/TiimmyFTurner/spot_the_spy) / [Bazaar](https://cafebazaar.ir/app/com.timothy.spot_the_spy) / [Myket](https://myket.ir/app/com.timothy.spot_the_spy) |
 | **Mafia Game** | Digital narrator and role-management for party games. | [GitHub](https://github.com/TiimmyFTurner/mafia_2) / [Bazaar](https://cafebazaar.ir/app/com.timothy.mafia2) / [Myket](https://myket.ir/app/com.timothy.mafia2) |
 
