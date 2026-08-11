@@ -44,8 +44,8 @@ I am a Flutter developer who focuses on the intersection of clean code and high-
 ---
 
 ### 📄 Documents
-- 🇬🇧 [English Resume](https://docs.google.com/document/d/19Z8Oo5bDljppmxJXtFj3RiQnczBmjx_AwvKMKwW6sQM/edit?usp=sharing)
-- 🇮🇷 [Persian Resume (رزومه)](https://docs.google.com/document/d/1vIHKIVruUPM9S0uOQouDeGq__PwABqjSv6O14sk6XDY/edit?usp=sharing)
+- EN [English Resume](https://docs.google.com/document/d/19Z8Oo5bDljppmxJXtFj3RiQnczBmjx_AwvKMKwW6sQM/edit?usp=sharing)
+- IR [Persian Resume (رزومه)](https://docs.google.com/document/d/1vIHKIVruUPM9S0uOQouDeGq__PwABqjSv6O14sk6XDY/edit?usp=sharing)
 
 ---
 
